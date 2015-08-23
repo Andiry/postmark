@@ -1,0 +1,6 @@
+set size 2000 9000
+set number 100000
+set transactions 100000
+set location /mnt/ramdisk
+run
+exit
